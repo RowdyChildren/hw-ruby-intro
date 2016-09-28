@@ -1,4 +1,4 @@
-Ruby Intro
+I did a thing
 =============
 
 This 3-part homework gives some basic practice in Ruby as well as
